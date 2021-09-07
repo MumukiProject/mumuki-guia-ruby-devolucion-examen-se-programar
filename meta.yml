@@ -1,0 +1,9 @@
+---
+name: Devolución Examen Sé Programar
+locale: es
+type: learning
+beta: false
+language: ruby
+id_format: "%05d"
+order: []
+private: false
